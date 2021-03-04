@@ -1,4 +1,4 @@
-### Hi there 👋
+### 💬 Run your own Gala Games Softnode http://bit.ly/get-a-gala-node 
 
 <!--
 **galatracker/galatracker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
